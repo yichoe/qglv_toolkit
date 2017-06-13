@@ -1,6 +1,6 @@
 /**
  * @file /dslam_viewer/src/qgl_demos/keyframe_interpolation.cpp
- * 
+ *
  * @brief Short description of this file.
  **/
 /*****************************************************************************
@@ -8,7 +8,7 @@
 *****************************************************************************/
 
 #include <qapplication.h>
-#include <QGLViewer/qglviewer.h>
+#include <QGLViewer/manipulatedFrame.h>
 #include <QKeyEvent>
 
 using namespace qglviewer;
